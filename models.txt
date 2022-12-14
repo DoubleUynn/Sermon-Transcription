@@ -1,0 +1,6 @@
+Download these models and put them in the models directory.
+
+vosk-model-en-us-0.22 from https://alphacephei.com/vosk/models
+en.23000 from https://github.com/benob/recasepunc
+
+git clone https://github.com/benob/recasepunc.git

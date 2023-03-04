@@ -87,7 +87,7 @@ big_model = r'models/vosk-model-en-us-0.22'
 
 # Get audio files from audio folder
 # audio_files = glob(r'audio/wav/*.wav')
-sermon_audio = glob(r'audio/*.wav')
+sermon_audio = glob(r'audio/wav/*.wav')
 
 # Run the program
 if __name__ == '__main__':
